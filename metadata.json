@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Coach Dashboard",
+  "description": "An interactive, collaborative career growth dashboard featuring Coach Sarah. Features include action goal builders, interactive checklists, mock interview simulation, resume analysis, and real-time AI progress coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
